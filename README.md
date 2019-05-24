@@ -1,4 +1,6 @@
 # iot-adk-addonkit
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FINDIGOa84%2Fiot-adk-addonkit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FINDIGOa84%2Fiot-adk-addonkit?ref=badge_shield)
+
 
 This project contains powershell scripts for package creation and image creation process. Users are expected to have ADK and Windows 10 IoT Core OS packages installed to make use of this. To be able to create images, Users should also get the BSPs corresponding to the hardware. Target audience is OEM’s and Maker Pro’s who want to manage multiple images and updates.
 
@@ -54,3 +56,7 @@ See [Windows 10 IoT Core BSPs](https://docs.microsoft.com/windows/iot-core/build
   * Source : [ms-iot/samples/DigitalSign](https://github.com/ms-iot/samples/tree/develop/DigitalSign)
 * Appx.IoTCoreOnboardingTask
   * Source : [ms-iot/samples/IoTOnBoarding](https://github.com/ms-iot/samples/tree/develop/IotOnboarding)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FINDIGOa84%2Fiot-adk-addonkit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FINDIGOa84%2Fiot-adk-addonkit?ref=badge_large)
